@@ -1,7 +1,7 @@
-slug: secure-service-networking-for-aws
+slug: PMW-150_C2X_Zero_Trust_Workshop
 id: 2oz9glafbqxw
 type: track
-title: Secure Service Networking for AWS
+title: PMW-150_C2X_Zero_Trust_Workshop
 teaser: Implement 'Secure by Default' Service Networking for AWS platforms.
 description: Securing micro-services is extremely complex. Traditional security technologies
   operate at the platform edge, and not at the inter-service communications behind
@@ -12,7 +12,7 @@ icon: https://storage.googleapis.com/instruqt-frontend/img/tracks/default.png
 tags: []
 owner: hashicorp
 developers:
-- npearce@hashicorp.com
+- greg.thomas@hashicorp.com
 private: true
 published: true
 checksum: "15672926476548538670"
