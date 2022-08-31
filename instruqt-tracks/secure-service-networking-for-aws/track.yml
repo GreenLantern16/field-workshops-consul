@@ -1,5 +1,4 @@
-slug: PMW-150_C2X_Zero_Trust_Workshop
-id: 2oz9glafbqxw
+slug: Greg_Zero_Trust_Workshop
 type: track
 title: PMW-150_C2X_Zero_Trust_Workshop
 teaser: Implement 'Secure by Default' Service Networking for AWS platforms.
@@ -15,4 +14,3 @@ developers:
 - greg.thomas@hashicorp.com
 private: true
 published: true
-checksum: "15672926476548538670"
